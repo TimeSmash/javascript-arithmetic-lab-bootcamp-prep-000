@@ -13,7 +13,7 @@ function divide(a, b) {
 function inc(n) {
   return (n = n + 1);
 }
-function add(n) {
+function decodeURIComponent(n) {
   return (n = n - 1);
 }
 function makeInt(n) {
