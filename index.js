@@ -17,6 +17,7 @@ function dec(n) {
   return (n = n - 1);
 }
 function makeInt(n) {
+  n = 'string';
   parseInt("n", 10)
 }
 function preserveDecimal(n) {
